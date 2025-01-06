@@ -5,8 +5,8 @@ on:
     branches: [ "master" ]
   pull_request:
     branches: [ "master" ]
-  Schedule:
-    - cron: 00 18 * * *
+   schedule:
+    - cron: "0 18 * * *" # Every day at 6:00 PM UTC
    
  
 
