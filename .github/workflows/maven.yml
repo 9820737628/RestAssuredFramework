@@ -34,6 +34,6 @@ jobs:
 
       with:
        name: Logs 
-       path:logs/
+       path: logs/
 
   
