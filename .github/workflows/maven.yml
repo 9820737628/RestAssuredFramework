@@ -4,9 +4,9 @@ on:
     branches: [ "master" ]
   pull_request:
     branches: [ "master" ]
-
-Schedule:
-   -cron: 00 18 * * *
+  Schedule:
+   - cron 00 18 * * *
+   
    
   
 
