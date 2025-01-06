@@ -1,16 +1,14 @@
 name: RestAssuredTest
 
-
 on:
   push:
     branches: [ "master" ]
   pull_request:
     branches: [ "master" ]
   Schedule:
-   - cron 00 18 * * *
+    - cron: 00 18 * * *
    
-   
-  
+ 
 
 jobs:
   build:
