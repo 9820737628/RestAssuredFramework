@@ -1,0 +1,243 @@
+00:13:31.684 [main] INFO  com.api.listeners.TestListere - Test Status Started
+00:13:31.746 [main] INFO  com.api.listeners.TestListere - Started Logintest
+00:13:31.747 [main] INFO  com.api.listeners.TestListere - Descrption Verfit Login API is working
+00:13:36.362 [main] INFO  com.api.listeners.TestListere - Passed Logintest
+00:13:36.402 [main] INFO  com.api.listeners.TestListere - Test Status finish
+00:36:24.062 [main] INFO  com.api.listeners.TestListere - Test Status Started
+00:36:24.108 [main] INFO  com.api.listeners.TestListere - Started Logintest
+00:36:24.108 [main] INFO  com.api.listeners.TestListere - Descrption Verfit Login API is working
+00:36:33.074 [main] INFO  com.api.listeners.TestListere - Passed Logintest
+00:36:33.131 [main] INFO  com.api.listeners.TestListere - Test Status finish
+00:37:59.267 [main] INFO  com.api.listeners.TestListere - Test Status Started
+00:37:59.313 [main] INFO  com.api.listeners.TestListere - Started Logintest
+00:37:59.314 [main] INFO  com.api.listeners.TestListere - Descrption Verfit Login API is working
+00:38:04.389 [main] INFO  com.api.listeners.TestListere - Passed Logintest
+00:38:04.440 [main] INFO  com.api.listeners.TestListere - Test Status finish
+00:39:52.760 [main] INFO  com.api.listeners.TestListere - Test Status Started
+00:39:52.808 [main] INFO  com.api.listeners.TestListere - Started Logintest
+00:39:52.808 [main] INFO  com.api.listeners.TestListere - Descrption Verfit Login API is working
+00:39:54.742 [main] INFO  com.api.listeners.TestListere - Passed Logintest
+00:39:54.798 [main] INFO  com.api.listeners.TestListere - Test Status finish
+10:33:01.085 [main] INFO  com.api.listeners.TestListere - Test Status Started
+10:33:01.138 [main] INFO  com.api.listeners.TestListere - Started Logintest
+10:33:01.138 [main] INFO  com.api.listeners.TestListere - Descrption Verfit Login API is working
+10:33:03.028 [main] INFO  com.api.listeners.TestListere - Passed Logintest
+10:33:03.079 [main] INFO  com.api.listeners.TestListere - Test Status finish
+11:38:38.291 [main] INFO  com.api.listeners.TestListere - Test Status Started
+11:38:38.338 [main] INFO  com.api.listeners.TestListere - Started Logintest
+11:38:38.339 [main] INFO  com.api.listeners.TestListere - Descrption Verfit Login API is working
+11:38:40.356 [main] INFO  com.api.listeners.TestListere - Passed Logintest
+11:38:40.360 [main] INFO  com.api.listeners.TestListere - Started Logintest
+11:38:40.360 [main] INFO  com.api.listeners.TestListere - Descrption Verfit Login API is working
+11:38:40.586 [main] INFO  com.api.listeners.TestListere - Passed Logintest
+11:38:40.632 [main] INFO  com.api.listeners.TestListere - Test Status finish
+23:22:07.523 [main] INFO  com.api.filters.LoggingFilter - Base URIhttp://64.227.160.186:8080
+23:22:07.531 [main] INFO  com.api.filters.LoggingFilter - Request HeaderAccept=*/*
+Content-Type=application/json
+23:22:07.532 [main] INFO  com.api.filters.LoggingFilter - Request Payload{"password":"111111","username":"111111"}
+23:22:08.774 [main] INFO  com.api.filters.LoggingFilter - Status COde URI200
+23:22:08.774 [main] INFO  com.api.filters.LoggingFilter - Respoce headerVary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Fri, 03 Jan 2025 17:52:08 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+23:22:08.847 [main] INFO  com.api.filters.LoggingFilter - Request Body{
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxMTExMTEiLCJpYXQiOjE3MzU5MjY3MjgsImV4cCI6MTczNTkzMDMyOH0.bKeReKOzDP0IC2_WzoE8FiBK50IwKuIrb64OyuCSFGo",
+    "type": "Bearer",
+    "id": 506,
+    "username": "111111",
+    "email": "disha.bhat@gmail.com",
+    "roles": [
+        "ROLE_USER"
+    ]
+}
+23:22:08.941 [main] INFO  com.api.filters.LoggingFilter - Base URIhttp://64.227.160.186:8080
+23:22:08.941 [main] INFO  com.api.filters.LoggingFilter - Request HeaderAuthorization=Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxMTExMTEiLCJpYXQiOjE3MzU5MjY3MjgsImV4cCI6MTczNTkzMDMyOH0.bKeReKOzDP0IC2_WzoE8FiBK50IwKuIrb64OyuCSFGo
+Accept=*/*
+23:22:08.944 [main] INFO  com.api.filters.LoggingFilter - Request Payloadnull
+23:22:09.365 [main] INFO  com.api.filters.LoggingFilter - Status COde URI200
+23:22:09.365 [main] INFO  com.api.filters.LoggingFilter - Respoce headerVary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Fri, 03 Jan 2025 17:52:09 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+23:22:09.367 [main] INFO  com.api.filters.LoggingFilter - Request Body{
+    "id": 506,
+    "username": "111111",
+    "email": "disha.bhat@gmail.com",
+    "firstName": "Disha",
+    "lastName": "Bhat",
+    "mobileNumber": "7777777771"
+}
+23:21:51.110 [main] INFO  com.api.listeners.TestListere - Test Status Started
+23:21:51.273 [main] INFO  com.api.listeners.TestListere - Started Logintest
+23:21:51.273 [main] INFO  com.api.listeners.TestListere - Descrption Verfit Login API is working
+23:21:57.681 [main] INFO  com.api.listeners.TestListere - Passed Logintest
+23:21:57.728 [main] INFO  com.api.listeners.TestListere - Test Status finish
+23:22:10.846 [main] INFO  com.api.filters.LoggingFilter - Base URIhttp://64.227.160.186:8080
+23:22:10.851 [main] INFO  com.api.filters.LoggingFilter - Request HeaderAccept=*/*
+Content-Type=application/json
+23:22:10.852 [main] INFO  com.api.filters.LoggingFilter - Request Payload{"username":"DIsha126311","password":"Disha126312","email":"Disha12341@yahoo.com","firstName":"Disha1413","lastName":"Patni1221","mobileNumber":"1289567009"}
+23:22:11.552 [main] INFO  com.api.filters.LoggingFilter - Status COde URI400
+23:22:11.553 [main] INFO  com.api.filters.LoggingFilter - Respoce headerVary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=text/plain;charset=UTF-8
+Content-Length=31
+Date=Sun, 05 Jan 2025 17:52:10 GMT
+Connection=close
+23:22:11.591 [main] INFO  com.api.filters.LoggingFilter - Request BodyError: Email is already in use!
+23:22:40.489 [main] INFO  com.api.filters.LoggingFilter - Base URIhttp://64.227.160.186:8080
+23:22:40.493 [main] INFO  com.api.filters.LoggingFilter - Request HeaderAccept=*/*
+Content-Type=application/json
+23:22:40.494 [main] INFO  com.api.filters.LoggingFilter - Request Payload{"username":"DIsha126311","password":"Disha126312","email":"Disha12341@yahoo.com","firstName":"Disha1413","lastName":"Patni1221","mobileNumber":"1289567009"}
+23:22:41.201 [main] INFO  com.api.filters.LoggingFilter - Status COde URI400
+23:22:41.201 [main] INFO  com.api.filters.LoggingFilter - Respoce headerVary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=text/plain;charset=UTF-8
+Content-Length=31
+Date=Sun, 05 Jan 2025 17:52:40 GMT
+Connection=close
+23:22:41.236 [main] INFO  com.api.filters.LoggingFilter - Request BodyError: Email is already in use!
+23:23:07.894 [main] INFO  com.api.filters.LoggingFilter - Base URIhttp://64.227.160.186:8080
+23:23:07.899 [main] INFO  com.api.filters.LoggingFilter - Request HeaderAccept=*/*
+Content-Type=application/json
+23:23:07.900 [main] INFO  com.api.filters.LoggingFilter - Request Payload{"username":"DIsha126391","password":"Disha126312","email":"Disha123419@yahoo.com","firstName":"Disha1413","lastName":"Patni12219","mobileNumber":"1289567809"}
+23:23:08.681 [main] INFO  com.api.filters.LoggingFilter - Status COde URI200
+23:23:08.681 [main] INFO  com.api.filters.LoggingFilter - Respoce headerVary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=text/plain;charset=UTF-8
+Content-Length=29
+Date=Sun, 05 Jan 2025 17:53:07 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+23:23:08.721 [main] INFO  com.api.filters.LoggingFilter - Request BodyUser registered successfully!
+23:26:40.223 [main] INFO  com.api.filters.LoggingFilter - Base URIhttp://64.227.160.186:8080
+23:26:40.228 [main] INFO  com.api.filters.LoggingFilter - Request HeaderAccept=*/*
+Content-Type=application/json
+23:26:40.228 [main] INFO  com.api.filters.LoggingFilter - Request Payload{"password":"111111","username":"111111"}
+23:26:41.001 [main] INFO  com.api.filters.LoggingFilter - Status COde URI200
+23:26:41.002 [main] INFO  com.api.filters.LoggingFilter - Respoce headerVary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Sun, 05 Jan 2025 17:56:39 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+23:26:41.065 [main] INFO  com.api.filters.LoggingFilter - Request Body{
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxMTExMTEiLCJpYXQiOjE3MzYwOTk3OTksImV4cCI6MTczNjEwMzM5OX0.Fsno5FJW74P1I3RN07RXTyUPlGh_UIZAmg-jnFUtRiI",
+    "type": "Bearer",
+    "id": 506,
+    "username": "111111",
+    "email": "disha.bhat@gmail.com",
+    "roles": [
+        "ROLE_USER"
+    ]
+}
+23:26:41.128 [main] INFO  com.api.filters.LoggingFilter - Base URIhttp://64.227.160.186:8080
+23:26:41.128 [main] INFO  com.api.filters.LoggingFilter - Request HeaderAuthorization=Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxMTExMTEiLCJpYXQiOjE3MzYwOTk3OTksImV4cCI6MTczNjEwMzM5OX0.Fsno5FJW74P1I3RN07RXTyUPlGh_UIZAmg-jnFUtRiI
+Accept=*/*
+23:26:41.128 [main] INFO  com.api.filters.LoggingFilter - Request Payloadnull
+23:26:41.412 [main] INFO  com.api.filters.LoggingFilter - Status COde URI200
+23:26:41.412 [main] INFO  com.api.filters.LoggingFilter - Respoce headerVary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Sun, 05 Jan 2025 17:56:40 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+23:26:41.415 [main] INFO  com.api.filters.LoggingFilter - Request Body{
+    "id": 506,
+    "username": "111111",
+    "email": "disha.bhat@gmail.com",
+    "firstName": "Disha",
+    "lastName": "Bhat",
+    "mobileNumber": "7777777771"
+}
